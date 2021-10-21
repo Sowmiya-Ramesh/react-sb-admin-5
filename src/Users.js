@@ -85,10 +85,10 @@ export default function Users() {
                           variant="contained"
                         >
                           Delete
-                        </Button>
+                        </Button>{" "}
                         <Link to="/" className="btn btn-danger ml-2">
                           Cancel
-                        </Link>{" "}
+                        </Link>
                       </Stack>
                     </td>
                   </tr>
